@@ -38,69 +38,6 @@ Designed for scalability and real-world deployment, this solution supports intel
 * Support predictive maintenance and infrastructure management.
 * Enable intelligent transportation and smart city applications.
 * Provide reliable road condition analytics for government agencies and transportation authorities.
-
-🏗️ System Workflow
-                Input Data
-      (Image / Video / Webcam / Drone)
-                     │
-                     ▼
-          Data Preprocessing
-      (Resize, Normalize, Enhancement)
-                     │
-                     ▼
-       YOLOv11 Deep Learning Model
-                     │
-                     ▼
-     Road Defect & Asset Detection
-                     │
-                     ▼
-      Classification & Localization
-                     │
-                     ▼
-        Road Quality Assessment
-                     │
-                     ▼
-     Visualization & Report Generation
-🎯 Detection Categories
-
-The system automatically detects and classifies multiple road defects and transportation infrastructure components.
-
-🚦 Traffic Infrastructure
-      🚦 Traffic Signs
-      🚥 Traffic Lights
-      🚧 Lane Markings
-      🛣️ Road Markings
-      🚸 Zebra Crossings
-      ⛰️ Speed Breakers
-      🛡️ Guard Rails
-      🚧 Road Barriers
-      ➡️ Directional Arrows
-
-💼 Real-World Applications
-      🚗 Autonomous Vehicles
-      🚘 Advanced Driver Assistance Systems (ADAS)
-      🏙️ Smart City Infrastructure
-      🛣️ Highway Monitoring
-      🚦 Intelligent Transportation Systems (ITS)
-      🚁 Drone-Based Road Inspection
-      🚓 Municipal Road Maintenance
-      📊 Road Asset Management
-      🚧 Road Safety Monitoring
-      🌐 AI-Based Transportation Analytics
-
-🚀 Future Scope
-      🌐 Live Road Monitoring Dashboard
-      📍 GPS-Based Defect Localization
-      🤖 Automatic Maintenance Recommendations
-      📊 Road Damage Severity Estimation
-      📷 Multi-Camera Integration
-      🚁 Drone-Based Inspection System
-      ☁️ Cloud Deployment
-      📱 Mobile Application
-      ⚡ TensorRT Optimization
-      🔄 ONNX & TensorFlow Lite Deployment
-      🖥️ Edge AI Deployment
-      📄 AI-Based Road Condition Report Generation
       
 # 👨‍💻 Developed By
 
