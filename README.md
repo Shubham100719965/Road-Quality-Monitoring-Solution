@@ -43,20 +43,21 @@ Designed for scalability and real-world deployment, this solution supports intel
 
 ## **Shubham Das**
 
-### 🚀 Core Expertise
+## 🚀 Core Expertise
 
 * 🤖 Artificial Intelligence (AI)
-* 🧠 Machine Learning
-* 👁️ Computer Vision
+* 🧠 Machine Learning (ML)
 * 🧬 Deep Learning
-* 💻 Full Stack Development
-* 📊 Data Science & Analytics
-* 🗂️ Data Structures & Algorithms
-* 🐍 Python Programming
-* ☕ Java Programming
-* 🌐 Web Development
-* 🖼️ Image Processing
+* 👁️ Computer Vision
+* 📸 Image Processing
 * 🎥 Video Analytics
-* 📡 Intelligent Transportation Systems (ITS)
-* 🚗 Autonomous Driving Technologies
+* 🎯 Object Detection (YOLOv11)
+* 📊 Data Analysis & Visualization
+* 🐍 Python Programming
+* 🔥 PyTorch
+* 📷 OpenCV
+* 📈 Model Training & Evaluation
 * 🛣️ AI-Based Road Quality Monitoring
+* 🚗 Intelligent Transportation Systems (ITS)
+* 🌍 Smart Mobility & Autonomous Driving Technologies
+
